@@ -1,5 +1,4 @@
 # Wireframing
-
 ## Introduction to Wireframing
 
 Wireframing is a visual representation of a user interface, stripped of visual design details and color. It serves as a blueprint for designers, developers, and stakeholders to understand the layout and functionality of a product before actual development begins. Wireframes help teams visualize page structures, define user flow, and identify necessary content and functionalities.
