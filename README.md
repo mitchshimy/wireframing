@@ -39,7 +39,7 @@ These are more detailed and closer to the final product. They include accurate s
 
 ### Wireframe Type Analysis
 
-**The Figma Example:** [Project Airbnb Wireframe](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) uses a;
+**The Figma Example:** [Project Airbnb Wireframe](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) uses a
 **high-fidelity wireframe**, as it includes layout details, text styles, accurate UI elements, and is close to the final visual design.
 
 ---
